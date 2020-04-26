@@ -1,4 +1,4 @@
 def prime?(numbers)
-prime? do 2 ==(true)  
+prime? do |numbers| is (true).  
   
 end
